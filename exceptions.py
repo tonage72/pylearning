@@ -1,6 +1,6 @@
 total = 4
 count = 2
-
+#main program
 try:
     average = total / count
     print('Average is: ', average)
