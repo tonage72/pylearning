@@ -8,7 +8,7 @@ for edutainer in edutainers:
     print('Edutainer:', edutainer)
 
 favorite_number = 7
-
+# you can remove this
 for attempt in attempts:
     guess = int(input("What is Vonne's favorite numer? \n"))
     
