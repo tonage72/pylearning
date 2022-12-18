@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #Mutiple variables assigned same value
 
 david_job = amanda_job = mandy_job = 'Programmer'

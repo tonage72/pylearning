@@ -2,6 +2,6 @@ with open('/home/david/programming/pylearning/data.txt', 'r') as file, open('/ho
     for line in file:
         print(line)
     # refill the cup
-    file.seek(0)
-    for line in pyfile:
-        print(line)
+    #file.seek(0)
+    #for line in pyfile:
+    #    print(line)
